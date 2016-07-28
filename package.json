@@ -1,0 +1,15 @@
+{
+	"name": "tagged-parser",
+	"version": "1.0.0",
+	"description": "Parse a tagged template string and create an executor.",
+	"main": "tagged-parser.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "scm@archive.eldergods.com:tagged-parser"
+	},
+	"author": "",
+	"license": "X"
+}
