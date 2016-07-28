@@ -1,6 +1,6 @@
 {
 	"name": "tagged-parser",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Parse a tagged template string and create an executor.",
 	"main": "tagged-parser.js",
 	"scripts": {
@@ -11,8 +11,5 @@
 		"url": "scm@archive.eldergods.com:tagged-parser"
 	},
 	"author": "",
-	"license": "X",
-	"dependencies": {
-		"tagged-template": "^1.0.0"
-	}
+	"license": "X"
 }
