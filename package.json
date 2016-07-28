@@ -11,5 +11,8 @@
 		"url": "scm@archive.eldergods.com:tagged-parser"
 	},
 	"author": "",
-	"license": "X"
+	"license": "X",
+	"dependencies": {
+		"tagged-template": "^1.0.0"
+	}
 }
