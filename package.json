@@ -1,6 +1,6 @@
 {
 	"name": "tagged-parser",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"description": "Parse a tagged template string and create an executor.",
 	"main": "tagged-parser.js",
 	"scripts": {
